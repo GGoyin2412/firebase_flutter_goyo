@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495587501758",
+    "project_id": "goyo-2f793",
+    "storage_bucket": "goyo-2f793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495587501758:android:cd28775828f7394ec060ef",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCugPZqt5whufFZbZi09Ru2Ugd9042qjL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495587501758:android:8677ad5bee18ccfac060ef",
+        "android_client_info": {
+          "package_name": "com.example.flutte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCugPZqt5whufFZbZi09Ru2Ugd9042qjL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
